@@ -56,20 +56,22 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
 
 ### Requirements
 Check and install the required driver; you can use "Zadig - USB driver installation ".
-- Python 3.9+  
+- Python 3.9+
+
+  
 
 👨‍💻 Author
 
 Mohammad Rakibur Rahman
-Master’s student, Computer Science and Engineering
-University of Oulu
+- Master’s student, Computer Science and Engineering
+- University of Oulu
 
 Supervised by:
 
-Dr. Constantino Álvarez Casado (Multimodal Sensing Lab)
+- Dr. Constantino Álvarez Casado (Multimodal Sensing Lab)
 
-Associate Professor Miguel Bordallo López (Head of Lab)
+- Associate Professor Miguel Bordallo López (Head of Lab)
 
 Contributor
-Dr. Mehdi Safarpour (Multimodal Sensing Lab)
+- Dr. Mehdi Safarpour (Multimodal Sensing Lab)
 
