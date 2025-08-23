@@ -31,8 +31,7 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
   - Dataset saving at specified frame intervals.  
 
 - **Temperature Extraction**  
-  - Raw-to-°C conversion using **Planck’s law inversion**.  
-  - Offline script (`metadata_to_temperature.py`) for radiometric JPEG analysis.  
+  - Raw-to-°C conversion using **Planck’s law inversion**.   
 
 - **Face Detection (YOLOv11)**  
   - Auto-detects faces in thermal frames.  
