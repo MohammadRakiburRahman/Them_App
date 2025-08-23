@@ -62,9 +62,9 @@ Check and install the required driver; you can use "Zadig - USB driver installat
 
 👨‍💻 Author
 
-Mohammad Rakibur Rahman
-- Master’s student, Computer Science and Engineering
-- University of Oulu
+Mohammad Rakibur Rahman <br>
+Master’s student, Computer Science and Engineering <br>
+University of Oulu
 
 Supervised by:
 
