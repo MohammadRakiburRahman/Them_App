@@ -40,9 +40,9 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
 
 ---
 
-![Thermal Camera Output]assets/img1.jpeg
-![Thermal Camera Output](assets/img2.jpg)
-![Thermal Camera Output](assets/video1.mp4)
+![Thermal Camera Output]assets/img1.jpeg <br>
+![Thermal Camera Output2](assets/img2.jpg) <br>
+![Thermal Camera Output3](assets/video1.mp4)
 
 
 ## 📂 Project Structure  
