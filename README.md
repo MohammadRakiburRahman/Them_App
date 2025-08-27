@@ -73,5 +73,5 @@ Supervised by:
 - Associate Professor Miguel Bordallo López (Head of Lab)
 
 Contributor
-- Dr. Mehdi Safarpour (Multimodal Sensing Lab)
+- Dr. Sasan Sharifipour (Multimodal Sensing Lab)
 
