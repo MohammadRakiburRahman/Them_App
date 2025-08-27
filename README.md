@@ -55,15 +55,18 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
 
 ## 📂 Project Structure  
 
-├── application.py # Main thermal imaging application
-├── device.py # ThermApp device communication
-├── config.py # Device configuration management
-├── constants.py # Frame and USB constants
-├── data_processing.py # Frame parsing and processing
-├── frame.py # Frame reader & display thread
-├── queue_handler.py # Data queue management
-├── main.py # Entry point for running application
-├── metadata_to_temperature.py # Offline raw-to-temperature converter
+📂Themapp main  (application with temperature detection with mouse overlay)
+📂Themapp with face detection ( application with face detection. It lags in the live feed, as it has a slower frame rate for detection)
+
+├── application.py # Main thermal imaging application<br>
+├── device.py # ThermApp device communication<br>
+├── config.py # Device configuration management<br>
+├── constants.py # Frame and USB constants<br>
+├── data_processing.py # Frame parsing and processing<br>
+├── frame.py # Frame reader & display thread<br>
+├── queue_handler.py # Data queue management<br>
+├── main.py # Entry point for running application<br>
+├── metadata_to_temperature.py # Offline raw-to-temperature converter<br>
 └── README.md # Project documentation
 
 
