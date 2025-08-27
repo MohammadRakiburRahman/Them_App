@@ -40,9 +40,16 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
 
 ---
 
-![Thermal Camera Output](assets/img1.jpeg) <br>
-![Thermal Camera Output2](assets/img2.jpg) <br>
-![Thermal Camera Output3](assets/video1.mp4)
+## 📸 Example Outputs  
+
+<p align="center">
+  <img src="assets/img1.jpeg" alt="Thermal Output 1" width="400"/><br>
+  <img src="assets/img2.jpg" alt="Thermal Output 2" width="400"/><br>
+</p>
+
+## 🎬 Demo Video  
+
+https://github.com/user-attachments/assets/7fbe1bbc-a0d3-4a94-b356-204956d67c17.mp4
 
 
 ## 📂 Project Structure  
