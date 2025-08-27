@@ -49,7 +49,7 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
 
 ## 🎬 Demo Video  
 
-https://github.com/user-attachments/assets/7fbe1bbc-a0d3-4a94-b356-204956d67c17.mp4
+<p align="center"> https://github.com/user-attachments/assets/7fbe1bbc-a0d3-4a94-b356-204956d67c17.mp4 </p>
 
 
 ## 📂 Project Structure  
