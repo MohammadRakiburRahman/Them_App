@@ -55,7 +55,7 @@ The system connects directly to the ThermApp device, streams raw thermal frames 
 
 ## 📂 Project Structure  
 
-📂Themapp main  (application with temperature detection with mouse overlay)
+📂Themapp main  (application with temperature detection with mouse overlay)<br>
 📂Themapp with face detection ( application with face detection. It lags in the live feed, as it has a slower frame rate for detection)
 
 ├── application.py # Main thermal imaging application<br>
